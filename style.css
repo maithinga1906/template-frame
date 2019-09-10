@@ -1,25 +1,25 @@
 
-.item1{
+.header{
 	grid-area: header; 
 	background-color: red;
 }
 
-.item2{
+.main-bar{
 	grid-area: main-bar;
 	background-color: black;
 }
 
-.item3{
+.menu{
 	grid-area: menu; 
 	background-color: green;
 }
 
-.item4{
+.main{
 	grid-area: main; 
 	background-color: pink;
 }
 
-.item5{
+.footer{
 	grid-area: footer; 
 	background-color: orange;
 }
