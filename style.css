@@ -3,27 +3,22 @@
 	grid-area: header; 
 	background-color: red;
 }
-
 .main-bar{
 	grid-area: main-bar;
 	background-color: black;
 }
-
 .menu{
 	grid-area: menu; 
 	background-color: green;
 }
-
 .main{
 	grid-area: main; 
 	background-color: pink;
 }
-
 .footer{
 	grid-area: footer; 
 	background-color: orange;
 }
-
 .grid-container {
 	display: grid;
 	grid-template-areas:
