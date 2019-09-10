@@ -33,7 +33,6 @@
 		'menu  main main main'
 		'menu  main main main'
 		'footer footer footer footer';
-	grid-auto-columns: 200px auto auto auto;
 }
 
 .grid-container > div {
