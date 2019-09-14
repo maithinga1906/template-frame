@@ -6,6 +6,7 @@
 .main-bar{
 	grid-area: main-bar;
 	background-color: black;
+	color: white;
 }
 .menu{
 	grid-area: menu; 
